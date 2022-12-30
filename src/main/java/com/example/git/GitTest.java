@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("lyc test2");
         System.out.println("lyc test3");
         System.out.println("lyc test4");
+        System.out.println("push test4");
     }
 }
